@@ -1,0 +1,29 @@
+.outer{
+    border: 1px solid lightgray;
+    color: white;
+    border-radius: 5px;
+    position: relative;
+}
+.inner-2{
+    padding:10px;
+    min-height: 68px;
+}
+.inner-1{
+    padding:40px 0px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    border-bottom: 1px solid lightgray;
+}
+.content-bg{
+    background-color:white;
+    border-bottom-right-radius:10px;
+    border-bottom-left-radius:10px;
+}
+.file-name{
+    font-weight:600;
+    color: black;
+}
+i.bx.bx-upload{
+    margin-right: 10px;
+}

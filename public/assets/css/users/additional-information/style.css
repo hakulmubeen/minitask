@@ -1,0 +1,64 @@
+.upload-files-div{
+    border:1px solid lightgray;
+    border-radius:16px;
+    box-shadow: 0 0px 9px rgb(0 0 0 / 15%) !important;
+}
+.browse_files{
+    width:100%;
+    display:flex;
+    align-items:center;
+    justify-content:start;
+    padding-left: 15px;
+}
+.upload_files{
+    padding:10px 15px;
+    border-radius:15px;
+    
+}
+.outer{
+    border: 1px solid lightgray;
+    color: white;
+    border-radius: 5px;
+    position: relative;
+}
+.inner-2{
+    padding:10px;
+    min-height: 68px;
+}
+.inner-1{
+    padding:40px 0px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    border-bottom: 1px solid lightgray;
+}
+.content-bg{
+    background-color:white;
+    border-bottom-right-radius:10px;
+    border-bottom-left-radius:10px;
+}
+.file-name{
+    font-weight:600;
+    color: black;
+}
+i.bx.bx-upload{
+    margin-right: 10px;
+}
+.delete_file{
+    position: absolute;
+    right: 10px;
+    top: 8px;
+}
+
+
+/*  */
+
+.profile-link{
+    color: #1c2e5b;
+    background-color: rgba(28, 46, 91, 0.16) !important;
+}
+.top-btn{
+    padding: 0.4375rem 1.25rem;
+    font-size: 0.9375rem;
+    border-radius: 0.375rem;
+}

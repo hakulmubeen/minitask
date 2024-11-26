@@ -1,0 +1,19 @@
+.select2-container--default.select2-container--focus .select2-selection--multiple {
+    border: solid #aaa 1px !important;
+    outline: 0;
+    color: #697a8d;
+    background-color: #fff;
+}
+.select2-container {
+    width: 100% !important;
+}
+.select2-selection__choice {
+    background: rgba(28, 46, 91, 0.16) !important;
+    color: #1c2e5b !important;
+     border: none !important;
+     border-radius: 10px !important;
+     border-right:none !important;
+}
+.select2-selection__choice__remove {
+    color: #1c2e5b !important;
+}

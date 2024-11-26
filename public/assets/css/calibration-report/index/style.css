@@ -1,0 +1,25 @@
+.arrow{
+    position: relative;
+}
+.right-arrow{
+    position: absolute;
+    right: 5px;
+    margin-top: 45%;
+    z-index: 100;
+    background-color: #ffd7d7;
+    padding: 5px;
+    border-radius: 20px;
+}
+.left-arrow{
+    position: absolute;
+    left: 5px;
+    margin-top: 45%;
+    z-index: 100;
+    background-color: #ffd7d7;
+    padding: 5px;
+    border-radius: 20px;
+}
+.owl-nav
+{
+  display: none;
+}

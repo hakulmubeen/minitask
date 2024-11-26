@@ -1,0 +1,22 @@
+.schedule-container,.schedule-sub-container{
+    padding: 10px;
+}
+.schedule-item{
+    border:1px solid lightgray;
+    padding: 10px;
+    border-radius: 8px;
+}
+.schedule-sub-item{
+    border:1px solid lightgray;
+    padding: 10px;
+    border-radius: 8px;
+    position: relative;
+}
+.delete-item{
+    position: absolute;
+    right: 22px;
+}
+.delete-sub-item{
+    position: absolute;
+    right: 10px;
+}

@@ -1,0 +1,20 @@
+.profile-link{
+    color: #1c2e5b !important;
+    background-color: rgba(28, 46, 91, 0.16) !important;
+}
+.top-btn,.top-btn:hover{
+    padding: 0.4375rem 1.25rem;
+    font-size: 0.9375rem;
+    border-radius: 0.375rem;
+    color: #697a8d;
+}
+#css-dropdown
+{
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    width: 300px;
+    height: 42px;
+    margin: 100px auto 0 auto;
+}

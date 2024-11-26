@@ -1,0 +1,10 @@
+.profile-link{
+    color: #1c2e5b !important;
+    background-color: rgba(28, 46, 91, 0.16) !important;
+}
+.top-btn,.top-btn:hover{
+    padding: 0.4375rem 1.25rem;
+    font-size: 0.9375rem;
+    border-radius: 0.375rem;
+    color: #697a8d;
+}

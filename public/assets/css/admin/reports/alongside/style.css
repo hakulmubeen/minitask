@@ -1,0 +1,6 @@
+.mr-3{
+    margin-right: 15px;
+}
+span.select2-selection.select2-selection--multiple{
+    height: fit-content;
+}
